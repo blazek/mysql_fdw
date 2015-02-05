@@ -1,2 +1,7 @@
 # Generated subdirectories
 /results/
+.*.swp
+*.*~
+*~
+*.o
+*.so
